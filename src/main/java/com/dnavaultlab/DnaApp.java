@@ -1,4 +1,4 @@
-package com.example;
+package com.dnavaultlab;
 
 public class DnaApp 
 {
